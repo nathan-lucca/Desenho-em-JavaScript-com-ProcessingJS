@@ -20,7 +20,8 @@ https://github.com/nathan-lucca/Desenho-em-JavaScript-com-ProcessingJS/blob/main
 
 # Como faço para clonar esse projeto?
 Primeiro vá em algum diretório da sua máquina (pode ser qualquer uma), abra o **CMD/PowerShell/Visual Studio Code** nela e digite:
-`git clone https://github.com/nathan-lucca/Desenho-em-JavaScript-com-ProcessingJS.git`!
+`git clone https://github.com/nathan-lucca/Desenho-em-JavaScript-com-ProcessingJS.git`!<br>
+Agora só você abrir o arquivo `index.html` no navegador e ver o resultado! (Você pode ir mudando, para saber o que está alterando no desenho)
 
 # Quero criar um do zero, como faço?
 Para criar do zero, você vai fazer os seguintes passos:<br>
