@@ -23,7 +23,7 @@ Primeiro vá em algum diretório da sua máquina (pode ser qualquer uma), abra o
 `git clone https://github.com/nathan-lucca/Desenho-em-JavaScript-com-ProcessingJS.git`!
 
 # Quero criar um do zero, como faço?
-Para criar do zero, você vai fazer os seguintes passos:
+Para criar do zero, você vai fazer os seguintes passos:<br>
 **1º: Abra o Visual Studio Code na pasta do projeto, vá na parte de `Etensões` e digite: `p5.vscode` e clique em Instalar!**<br>
 **2º: Após ter terminado a intalação da extensão, pressione o atalho: CTRL + Shift + P e digite `Install p5.js Contributor Library` e clique na primeira opção que vai aparecer**<br>
 **3º: Após ter clicado na primeira opção, vai aparecer várias livrarias do `P5.JS`, você vai digitar `p5.gui` e clicar em `Install p5.gui` e aguardar a instalação!**<br>
