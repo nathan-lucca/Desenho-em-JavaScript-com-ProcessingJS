@@ -16,7 +16,7 @@ Entre os métodos que Processing.js nos oferece encontraremos diversos para trab
 # Exemplo de desenho!
 *Esse desenho foi feito por mim **Nathan Lucca** usando o ProcessingJS!*
 
-![Clique Aqui para ver o Desenho](https://github.com/[nathan-lucca]/[Desenho-em-JavaScript-com-ProcessingJS]/blob/[main]/boneco-de-neve.png?raw=true)
+https://github.com/nathan-lucca/Desenho-em-JavaScript-com-ProcessingJS/blob/main/boneco-de-neve.png
 
 # Como faço para clonar esse projeto?
 Primeiro vá em algum diretório da sua máquina (pode ser qualquer uma), abra o **CMD/PowerShell/Visual Studio Code** nela e digite:
@@ -24,10 +24,10 @@ Primeiro vá em algum diretório da sua máquina (pode ser qualquer uma), abra o
 
 # Quero criar um do zero, como faço?
 Para criar do zero, você vai fazer os seguintes passos:
-**1º: Abra o Visual Studio Code na pasta do projeto, vá na parte de `Etensões` e digite: `p5.vscode` e clique em Instalar!**
-**2º: Após ter terminado a intalação da extensão, pressione o atalho: CTRL + Shift + P e digite `Install p5.js Contributor Library` e clique na primeira opção que vai aparecer**
-**3º: Após ter clicado na primeira opção, vai aparecer várias livrarias do `P5.JS`, você vai digitar `p5.gui` e clicar em `Install p5.gui` e aguardar a instalação!**
-**4º: Após ter terminado a instalação, irá criar uma pasta chamada `libraries` e 3 arquivos para construção de WebSites (html, css e js)**
+**1º: Abra o Visual Studio Code na pasta do projeto, vá na parte de `Etensões` e digite: `p5.vscode` e clique em Instalar!**<br>
+**2º: Após ter terminado a intalação da extensão, pressione o atalho: CTRL + Shift + P e digite `Install p5.js Contributor Library` e clique na primeira opção que vai aparecer**<br>
+**3º: Após ter clicado na primeira opção, vai aparecer várias livrarias do `P5.JS`, você vai digitar `p5.gui` e clicar em `Install p5.gui` e aguardar a instalação!**<br>
+**4º: Após ter terminado a instalação, irá criar uma pasta chamada `libraries` e 3 arquivos para construção de WebSites (html, css e js)**<br>
 
 E é isso, agora você pode ir editando seu arquivo `index.html`, para textos, o arquivo `style.css` para o desing e por último o arquivo `sketch.js` para criar o desenho!
 
